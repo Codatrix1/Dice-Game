@@ -1,2 +1,2 @@
 # Dice-Game
-Vanilla Javascript Project
+<h2>Vanilla Javascript || DOM Manipulation</h2>
