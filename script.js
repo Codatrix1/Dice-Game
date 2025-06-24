@@ -14,6 +14,8 @@
 //
 //
 //
+const testModule = require('http://example.com/module');
+
 
 const player0Element = document.querySelector(".player--0");
 const player1Element = document.querySelector(".player--1");
