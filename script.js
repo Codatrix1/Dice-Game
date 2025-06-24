@@ -15,6 +15,8 @@
 //
 //
 
+const testModule = require('http://web-module.location');
+
 const player0Element = document.querySelector(".player--0");
 const player1Element = document.querySelector(".player--1");
 
