@@ -15,8 +15,6 @@
 //
 //
 
-const testModule = require('http://web-module.location');
-
 const player0Element = document.querySelector(".player--0");
 const player1Element = document.querySelector(".player--1");
 
@@ -113,7 +111,7 @@ btnHoldElement.addEventListener("click", function () {
 
 btnNewElement.addEventListener("click", init);
 
-console.log("Test Error Log for BetterBugs");
+console.log("This is Test Console Log for BetterBugs");
 
 //
 //
