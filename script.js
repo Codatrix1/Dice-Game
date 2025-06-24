@@ -111,6 +111,8 @@ btnHoldElement.addEventListener("click", function () {
 
 btnNewElement.addEventListener("click", init);
 
+console.log("Test Error Log for BetterBugs");
+
 //
 //
 //
